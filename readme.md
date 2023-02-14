@@ -26,7 +26,9 @@ Para todos os gostos (e dispositivos haha) 😎
 </br>
 
 <p align = "center">
-<img src="https://i.imgur.com/KdUqAvG.png"/>
+
+![](assets/ezgif.com-video-to-gif.gif)
+
 </p>
 
 <br>
